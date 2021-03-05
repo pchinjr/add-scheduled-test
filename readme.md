@@ -17,5 +17,5 @@ Deploy your own clone of this app to Begin!
 ## Reference
 
 - [Quickstart](https://docs.begin.com/en/guides/quickstart/) - basics on working locally, project structure, deploying, and accessing your Begin app
-- [Creating new routes](https://docs.begin.com/en/functions/creati
+- [Creating new routes](https://docs.begin.com/en/func
 
